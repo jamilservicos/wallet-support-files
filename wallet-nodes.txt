@@ -4,3 +4,8 @@ node0001.niobiocash.net:8314
 node0002.niobiocash.net:8314
 remote-extra-001.niobioco.in:8314
 br-nodenbr.ddns.net:8314
+node0001.niobiocash.net:8314
+node0002.niobiocash.net:8314
+node0003.niobiocash.net:8314
+node0004.niobiocash.net:8314
+node0005.niobiocash.net:8314
