@@ -1,3 +1,4 @@
+remote-02.quan-project.com:8314
 remote-nbr-hydra.niobioco.in:8314
 node0001.niobiocash.net:8314
 node0002.niobiocash.net:8314
